@@ -31,3 +31,4 @@ Both impacts each other.
 ## Notebooks
 * [Introduction](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Introduction.ipynb)
 * [Bayes Filter](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Bayes_Filter.ipynb)
+* [Occupancy Grid Maps](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Occupancy_Grid_Maps.ipynb)
