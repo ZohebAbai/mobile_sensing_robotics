@@ -1,12 +1,12 @@
 # Mobile Sensing and Robotics - 2020/21
 
-## Instructors
+## Instructor
 * Cyrill Stachniss
-* Nived Chebrolu
 
-## Video Playlist
-* [MSR Part 1](https://www.youtube.com/watch?v=5KZpWAe9hSk&list=PLgnQpQtFTOGQEn33QDVGJpiZLi-SlL7vA)
-* [MSR Part 2](https://www.youtube.com/watch?v=mQvKhmWagB4&list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6)
+## Resources
+* [MSR Part 1 Videos](https://www.youtube.com/watch?v=5KZpWAe9hSk&list=PLgnQpQtFTOGQEn33QDVGJpiZLi-SlL7vA)
+* [MSR Part 2 Videos](https://www.youtube.com/watch?v=mQvKhmWagB4&list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6)
+* [MSR Part 2 Slides](https://drive.google.com/drive/folders/1oBOP26q2ta88ITBtsWmWVNZ4si9hkHaF?usp=sharing)
 
 ## SLAM - Simultaneous Localization and Mapping
 
@@ -56,9 +56,14 @@ These influence each other. It's a chicken-and-egg problem.
 ## Paradigms for solving SLAM problems
 * Kalman Filter
 * Particle Filter
-* Graph based representations - *Focus more on this*
+* Graph based representations - *Focus on this*
 
 ## Notebooks (Exercises with Notes)
 * [Introduction](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Introduction.ipynb)
 * [Bayes Filter](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Bayes_Filter.ipynb)
 * [Occupancy Grid Maps](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Occupancy_Grid_Maps.ipynb)
+* [Iterative Closest Point]()
+* [Graph-based SLAM]()
+* [Visual Features and RANSAC]()
+* [Camera Intrinsics and Extrinsics]()
+
