@@ -62,8 +62,8 @@ These influence each other. It's a chicken-and-egg problem.
 * [Introduction](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Introduction.ipynb)
 * [Bayes Filter](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Bayes_Filter.ipynb)
 * [Occupancy Grid Maps](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Occupancy_Grid_Maps.ipynb)
-* [Iterative Closest Point]()
-* [Graph-based SLAM]()
-* [Visual Features and RANSAC]()
-* [Camera Intrinsics and Extrinsics]()
+* [Iterative Closest Point](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Iterative_Closest_Point.ipynb)
+* [Graph-based SLAM](#)
+* [Visual Features and RANSAC](#)
+* [Camera Intrinsics and Extrinsics](#)
 
