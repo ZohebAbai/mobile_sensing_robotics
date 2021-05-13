@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Author : Zoheb Abai
+# Repo : https://github.com/ZohebAbai/mobile_sensing_robotics/
 
 import numpy as np
 import matplotlib.pyplot as plt

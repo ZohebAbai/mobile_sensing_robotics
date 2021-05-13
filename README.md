@@ -63,7 +63,13 @@ These influence each other. It's a chicken-and-egg problem.
 * [Bayes Filter](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Bayes_Filter.ipynb)
 * [Occupancy Grid Maps](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Occupancy_Grid_Maps.ipynb)
 * [Iterative Closest Point](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Iterative_Closest_Point.ipynb)
-* [Graph-based SLAM](#)
-* [Visual Features and RANSAC](#)
-* [Camera Intrinsics and Extrinsics](#)
+* [Graph-based SLAM](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Graph_based_SLAM.ipynb)
+* [Visual Features and RANSAC](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Visual_Features_RANSAC.ipynb)
+* [Camera Intrinsics and Extrinsics](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Camera_Intrinsics_Extrinsics.ipynb)
 
+## Opinion/Comments
+> I took this course due to an upcoming project in my company. I attended every Lecture and finished each Assignment. I believe this is one of the best online courses on mobile robotics. Prof. Stachniss explains so well.
+
+> I have provided my assignments here (as evidence of finishing and maintaining a repository for the course), which I completed entirely independently during the last two weeks without any external help. I enjoyed the course, assignments in particular, and as of May 2021, I know of no online solutions for MSR-2 assignments except mine. My answers are not efficient ones but certainly correct. If you clone/download it, find an efficient solution, don't forget to raise an issue or a pull request.
+
+*Thanks for passing by!*
