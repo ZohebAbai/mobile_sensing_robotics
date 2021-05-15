@@ -6,7 +6,7 @@
 ## Resources
 * [MSR Part 1 Videos](https://www.youtube.com/watch?v=5KZpWAe9hSk&list=PLgnQpQtFTOGQEn33QDVGJpiZLi-SlL7vA)
 * [MSR Part 2 Videos](https://www.youtube.com/watch?v=mQvKhmWagB4&list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6)
-* [MSR Part 2 Slides](https://drive.google.com/drive/folders/1oBOP26q2ta88ITBtsWmWVNZ4si9hkHaF?usp=sharing)
+* [MSR Part 2 Slides](https://www.ipb.uni-bonn.de/html/teaching/msr2-2021/msr2-2021-slides-pdf.zip)
 
 ## SLAM - Simultaneous Localization and Mapping
 
@@ -56,7 +56,7 @@ These influence each other. It's a chicken-and-egg problem.
 ## Paradigms for solving SLAM problems
 * Kalman Filter
 * Particle Filter
-* Graph based representations - *Focus on this*
+* Graph based representations *(Focus on this)* - [Read a tutorial on Graph-based SLAM](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/A%20Tutorial%20on%20Graph-Based%20SLAM.pdf)
 
 ## Notebooks (Exercises with Notes)
 * [Introduction](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Introduction.ipynb)
@@ -65,11 +65,10 @@ These influence each other. It's a chicken-and-egg problem.
 * [Iterative Closest Point](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Iterative_Closest_Point.ipynb)
 * [Graph-based SLAM](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Graph_based_SLAM.ipynb)
 * [Visual Features and RANSAC](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Visual_Features_RANSAC.ipynb)
-* [Camera Intrinsics and Extrinsics](https://github.com/ZohebAbai/mobile_sensing_robotics/blob/main/Camera_Intrinsics_Extrinsics.ipynb)
 
 ## Opinion/Comments
 > I took this course due to an upcoming project in my company. I attended every Lecture and finished each Assignment. I believe this is one of the best online courses on mobile robotics. Prof. Stachniss explains so well.
 
-> I have provided my assignments here (as evidence of finishing and maintaining a repository for the course), which I completed entirely independently during the last two weeks without any external help. I enjoyed the course, assignments in particular, and as of May 2021, I know of no online solutions for MSR-2 assignments except mine. My answers are not efficient ones but certainly correct. If you clone/download it, find an efficient solution, don't forget to raise an issue or a pull request.
+> I have provided my assignments here, which I completed entirely independently during the last two weeks without any external help. I enjoyed the course, assignments in particular and as of May 2021, I know of no online solutions for MSR-2 assignments except mine. My answers are not efficient ones but certainly correct. If you clone/download it, find an efficient solution, don't forget to raise an issue or a pull request.
 
 *Thanks for passing by!*
